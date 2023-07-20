@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="certificado.jpg" />
+  <img alt="Imagem da Aplicação" src="battery.jpg" />
 </p>
 
 ---
@@ -35,20 +35,15 @@
 
 ## :rocket: Sobre o Repositório
 
-Este é um repositório contendo todo conteúdo que fiz do curso, desde funcionalidades do sass até projetos. 
+Este é um repositório contendo uma bateria, feita totalmente com javaScript puro.
 
 ---
 
 ## 👨‍💻️ Tecnogias utilizadas
 
-✅ [ SASS ](https://sass-lang.com/install) <br/>
+✅ [ JavaScript ](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) <br/>
 ✅ [ CSS ](https://developer.mozilla.org/pt-BR/docs/Web/CSS) <br/>
 ✅ [ HTML ](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <br/>
-
-### Padronização de código
-
-  - [Arquitetura de Projetos com SASS do Matheus Battisti]
-  -  : mouse : [ Editor Config ](https://editorconfig.org/)
 
 ###  IDE
 
