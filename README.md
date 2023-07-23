@@ -56,7 +56,7 @@ Este é um repositório contendo uma bateria, feita totalmente com javaScript pu
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Curso-De-Sass.git
+  ❯ git clone https://github.com/Talison-Miguel/Battery-Js.git
 ```
 
 ---
